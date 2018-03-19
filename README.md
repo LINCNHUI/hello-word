@@ -1,3 +1,3 @@
 # hello-word
-hello my word;
-I'm lincnhui;
+hello my word,
+I'm lincnhui.
